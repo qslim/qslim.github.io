@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mingqi Yang (杨明奇)"
 title_separator          : "-"
 name                     : &name "Mingqi Yang"
-description              : &description "I am a Ph.D. student working on graph representation learning."
+description              : &description "Research Fellow, National University of Singapore"
 url                      : https://qslim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qslim/qslim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingqi Yang"
   avatar           : "picture.jpg"
-  bio              : "I am a Ph.D. student working on graph representation learning."
+  bio              : "Research Fellow, National University of Singapore"
 #  location         : "Location"
 #  employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
