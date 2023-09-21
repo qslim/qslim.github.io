@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a Ph.D. student in Computer Science at Dalian University of Technology, China, where I am fortunate to be advised by Prof. Yanming Shen. My research interest mainly focuses on deep learning on graphs.
+I am a postdoctoral research fellow in the School of Computing in National University of Singapore, working with Prof. Bryan Hooi. Before that, I received my Ph.D. in Computer Science from Dalian University of Technology. My research interest mainly focuses on deep learning on graphs.
 
 ## Selected publications:
 
